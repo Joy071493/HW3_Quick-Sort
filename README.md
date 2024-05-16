@@ -15,7 +15,8 @@
  
 5. 在執行結果中印出排序過程有額外加分。
 
-
-
 ## Result
 ![image](https://github.com/Joy071493/HW3_Quick-Sort/assets/161842690/ffc314d0-f1da-49eb-bca8-9d9e6576e341)
+
+## 參考資料
+https://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html
